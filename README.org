@@ -1,0 +1,10 @@
+* legion
+
+Simple multithreading worker mechanism.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/legion.git   |
+| commit  | 599cca1  |
+| systems | legion |
+|---------+-------------------------------------------|
+
