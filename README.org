@@ -2,9 +2,8 @@
 
 Simple multithreading worker mechanism.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/fukamachi/legion.git   |
-| commit  | 599cca1  |
-| systems | legion |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------|
+| source  | git:https://github.com/fukamachi/legion.git |
+| commit  | 281dba5                                     |
+| systems | legion                                      |
+|---------+---------------------------------------------|
